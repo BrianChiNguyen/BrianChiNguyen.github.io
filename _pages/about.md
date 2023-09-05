@@ -7,6 +7,17 @@ redirect_from:
   - /about/
   - /about.html
 ---
+**10000 Subscribers to my Youtube Channel - [Brian's School](https://www.youtube.com/channel/UC2kmxhjbbunoNEPyG-ENfoA)**
+------
+<div class="excerpt-content">
+  <p>
+I lauched my Youtube channel - Brian's School about one year ago. I don't often post videos due to my hectic schedule, so far, I  have only 22 videos. These videos are mainly about my study techniques and tips that I want to share with high school and university students to motivate and assist them in their learning endeavors. I didn't anticipate garnering much attention from viewers, but I'm deeply grateful to all of my dedicated fans for their unwavering support. Your encouragement means the world to me. 
+  </p>
+</div>
+If you are new to my channel, please check it out at  [this link](https://www.youtube.com/channel/UC2kmxhjbbunoNEPyG-ENfoA)  
+
+![Graphical Abstract](/images/10KYoutube.png)
+
 **New first-author publication in [Sensors and Actuators A: Physical (Elservier)](https://www.sciencedirect.com/science/article/abs/pii/S0924424723002297)**
 ------
 Recently, I've published a research paper named [Development of a soft robotic catheter for vascular intervention surgery - PDF](https://drive.google.com/file/d/1zYttcikO3ERVIetWi9fbCQRN9AwHLr6Z/view?usp=drive_link).
