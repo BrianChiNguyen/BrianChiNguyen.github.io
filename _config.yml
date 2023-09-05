@@ -11,9 +11,9 @@ title                    : "Brian's Homepage"
 title_separator          : "-"
 name                     : &name "Chi Cong"
 description              : &description "personal description"
-url                      : ""  # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : "https://brianchinguyen.github.io/"  # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : ""
+repository               : "brianchinguyen.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
@@ -85,24 +85,24 @@ author:
   bio              : "Hi, I'm currently a Ph.D. student."
   location         : "University of New South Wales"
   employer         : "Sydney, Australia"
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  googlescholar    : "http://yourfullgooglescholarurl.com"
-  email            :
-  researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
+  #pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
+  googlescholar    : "https://scholar.google.com/citations?user=q0oMHaYAAAAJ&hl=en"
+  email            : "cong.c.nguyen@unsw.edu.au"
+  researchgate     : "https://www.researchgate.net/profile/Chi-Nguyen-268"
   uri              :
   bitbucket        :
   codepen          :
   dribbble         :
   flickr           :
-  facebook         :
+  facebook         : "https://www.facebook.com/congbkhn/"
   foursquare       :
-  github           : "BrianChiNguyen.github.io"
+  github           : "https://github.com/BrianChiNguyen"
   google_plus      :
   keybase          :
   instagram        :
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         :
+  linkedin         : "https://www.linkedin.com/in/chicong-brian/"
   #orcid            : ""
   pinterest        :
   soundcloud       :
@@ -113,7 +113,7 @@ author:
   vine             :
   weibo            :
   xing             :
-  youtube          : "https://www.youtube.com/@briansschool1908"
+  youtube          : "https://www.youtube.com/channel/UC2kmxhjbbunoNEPyG-ENfoA"
   wikipedia        :
 
 
@@ -255,7 +255,7 @@ sass:
 permalink: /:categories/:title/
 # paginate: 5 # amount of posts to show
 # paginate_path: /page:num/
-timezone: America/Los_Angeles # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
+timezone: Australia/ACT # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
 
 
 # Plugins

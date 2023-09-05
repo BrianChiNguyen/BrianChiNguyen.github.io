@@ -14,9 +14,9 @@ main:
 
   - title: "Blog Posts"
     url: /year-archive/
-    
+
   - title: "CV"
-    url: /cv/
+    url: /files/CV_ChiCongNguyen_2022.pdf
 
   #- title: "Guide"
   #  url: /markdown/
