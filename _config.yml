@@ -9,7 +9,7 @@
 locale                   : "en-US"
 title                    : "Brian's Homepage"
 title_separator          : "-"
-name                     : &name "Chi Cong"
+name                     : &name "Chi Cong Nguyen"
 description              : &description "personal description"
 url                      : "https://brianchinguyen.github.io/"  # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
@@ -80,9 +80,9 @@ analytics:
 
 # Site Author
 author:
-  name             : "Chi Cong"
+  name             : "--Chi Cong Nguyen--"
   avatar           : "ChiCong.jpg"
-  bio              : "Hi, I'm currently a Ph.D. student."
+  bio              : "I'm currently a Ph.D. student"
   location         : "University of New South Wales"
   employer         : "Sydney, Australia"
   #pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
@@ -94,7 +94,7 @@ author:
   codepen          :
   dribbble         :
   flickr           :
-  facebook         : "https://www.facebook.com/congbkhn/"
+  facebook         : "https://www.facebook.com/congbkhn"
   foursquare       :
   github           : "https://github.com/BrianChiNguyen"
   google_plus      :
@@ -113,7 +113,7 @@ author:
   vine             :
   weibo            :
   xing             :
-  youtube          : "https://www.youtube.com/channel/UC2kmxhjbbunoNEPyG-ENfoA"
+  youtube          : "https://www.youtube.com/@briansschool1908"
   wikipedia        :
 
 
@@ -175,13 +175,13 @@ kramdown:
 
 # Collections
 collections:
-  teaching:
+  videos:
     output: true
     permalink: /:collection/:path/
   publications:
     output: true
     permalink: /:collection/:path/
-  portfolio:
+  projects:
     output: true
     permalink: /:collection/:path/
   talks:
@@ -209,10 +209,10 @@ defaults:
     values:
       layout: single
       author_profile: true
-  # _teaching
+  # _videos
   - scope:
       path: ""
-      type: teaching
+      type: videos
     values:
       layout: single
       author_profile: true
@@ -227,10 +227,10 @@ defaults:
       author_profile: true
       share: true
       comments: true
-  # _portfolio
+  # _projects
   - scope:
       path: ""
-      type: portfolio
+      type: projects
     values:
       layout: single
       author_profile: true

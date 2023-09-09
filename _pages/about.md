@@ -11,7 +11,7 @@ redirect_from:
 ------
 <div class="excerpt-content">
   <p>
-I lauched my Youtube channel - Brian's School about one year ago. I don't often post videos due to my hectic schedule, so far, I  have only 22 videos. These videos are mainly about my study techniques and tips that I want to share with high school and university students to motivate and assist them in their learning endeavors. I didn't anticipate garnering much attention from viewers, but I'm deeply grateful to all of my dedicated fans for their unwavering support. Your encouragement means the world to me. 
+I lauched my Youtube channel - Brian's School about one year ago. I don't often post videos due to my hectic schedule, so far, I  have only 22 videos. These videos are mainly about my study techniques and tips that I want to share with high school and university students to motivate and assist them in their learning endeavors. I didn't anticipate garnering much attention from viewers, but I'm deeply grateful to all of my dedicated fans for their unwavering support. Your encouragement means the world to me.
   </p>
 </div>
 If you are new to my channel, please check it out at  [this link](https://www.youtube.com/channel/UC2kmxhjbbunoNEPyG-ENfoA)  

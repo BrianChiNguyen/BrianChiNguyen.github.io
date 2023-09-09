@@ -3,17 +3,14 @@ main:
   - title: "Publications"
     url: /publications/
 
-  #- title: "Talks"
-  #  url: /talks/
-
-#  - title: "Teaching"
-  #  url: /teaching/
-
   - title: "Projects"
-    url: /portfolio/
+    url: /projects/
 
   - title: "Blog Posts"
     url: /year-archive/
+
+  - title: "Videos"
+    url: /talks/
 
   - title: "CV"
     url: /files/CV_ChiCongNguyen_2022.pdf
