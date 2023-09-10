@@ -11,7 +11,7 @@
   @include clearfix;
   margin-top: 0;
   margin-bottom: 0;
-  padding-left: 10em;
+  padding-left: 2em;
   padding-right: 2em;
   font-family: $sans-serif;
   -webkit-animation: intro 0.3s both;
@@ -20,7 +20,7 @@
           animation-delay: 0.30s;
 
   @include breakpoint($large) {
-    padding-left: 10em;
+    padding-left: 1em;
     padding-right: 1em;
   }
 
@@ -174,7 +174,7 @@
 
 .greedy-nav {
   position: relative;
-  min-width: 500px;
+  min-width: 250px;
   background: $darker-orange;
 
   a {
@@ -192,7 +192,7 @@
   button {
     position: absolute;
     height: 100%;
-    right: 0.5rem;
+    right: 0;
     padding: 0 0.5rem;
     border: 0;
     outline: none;
@@ -323,7 +323,7 @@
   a {
     display: block;
     padding: 0.125em 0;
-    color: inherit;
+    color: $darker-orange;
 
     &:hover {
       text-decoration: underline;
@@ -334,13 +334,13 @@
     margin-left: -0.5em;
     padding-left: 0.5em;
     padding-right: 0.5em;
-    color: #fff;
+    color: $orange;
     font-weight: bold;
-    background: $primary-color;
+    background: $darker-orange;
     border-radius: $border-radius;
 
     &:hover {
-      color: #fff;
+      color: $dark-orange;
     }
   }
 }
@@ -371,7 +371,7 @@
 
 .toc {
   font-family: $sans-serif-narrow;
-  color: $gray;
+  color: $darker-orange;
   text-transform: uppercase;
   letter-spacing: 1px;
   background-color: #fff;
@@ -382,7 +382,7 @@
   .nav__title {
     color: #fff;
     font-size: $type-size-6;
-    background: $primary-color;
+    background: $darker-orange;
     border-top-left-radius: $border-radius;
     border-top-right-radius: $border-radius;
   }
@@ -398,7 +398,7 @@
   a {
     display: block;
     padding: 0.5rem 1rem;
-    color: $gray;
+    color: $dark-orange;
     font-size: $type-size-7;
     font-weight: bold;
     line-height: 1.5;
@@ -406,7 +406,7 @@
 
     &:hover {
       color: #000;
-      background: $lighter-gray;
+      background: $darker-orange;
     }
   }
 
