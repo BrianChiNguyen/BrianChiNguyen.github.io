@@ -7,7 +7,7 @@ main:
     url: /projects/
 
   - title: "Blog Posts"
-    url: /year-archive/
+    url: /blogs/
 
   - title: "Videos"
     url: /videos/

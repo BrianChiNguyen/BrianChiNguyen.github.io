@@ -1,7 +1,7 @@
 ---
 title: "[Top2] Chat GPT - Gia Sư TIẾNG ANH $0: Cách tận dụng Chat GPT để học TIẾNG ANH"
 collection: videos
-type: "ENGLISH/IELTS"
+type: "ENGLISH - ChatGPT"
 permalink:
 venue: "Brian's School - 91000+ Views"
 date: 2023-09-04
