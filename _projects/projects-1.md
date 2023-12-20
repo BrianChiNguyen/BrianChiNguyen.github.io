@@ -14,7 +14,7 @@ collection: projects
 <strong style="color: orange;">Software:</strong> Solidworks, MATLAB, and CURA;<br>
 <strong style="color: orange;">Hardware:</strong>
 QPIDe Data Acquisition Device (Quanser),  Pressure Sensors 40PC250G2A (Honeywell), Linear Motors (Zaber X-LRQ-E Series), laser (IL-1000, Keyence), UltiMaker S3, Mark-10 Force Gauge, 3D Force Sensor (ATI Nano 17), and Electrosurgical Unit (Led Surtron 120, Stark Medical);<br> 
-<strong style="color: orange;">Skills:</strong> Mechanical design, Protyping, Mathematical Modeling (Soft Actuators), and Image Processing (MATLAB). 
+<strong style="color: orange;">Skills:</strong> Mechanical design, Prototyping, Mathematical Modeling (Soft Actuators), and Image Processing (MATLAB). 
  </p>
 </div>
 ---

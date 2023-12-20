@@ -12,7 +12,7 @@ collection: projects
 <strong style="color: orange;">Software:</strong> Solidworks, MATLAB, Wolframe Mathematica, ANSYS, COMSOL Multiphisics, Visual Studio (Python), and CURA;<br>
 <strong style="color: orange;">Hardware:</strong>
 QPIDe Data Acquisition Device (Quanser), Pressure Sensors 40PC250G2A (Honeywell), Linear Motors (Zaber X-LRQ-E Series), Load Cell – LSB200 (FUTEK);<br> 
-<strong style="color: orange;">Skills:</strong> Mechanical design, Protyping, Mathematical Modeling (Continuum Mechanics in Soft Robotics), Image Processing (Python), Simulating (COMSOL Multiphisics). 
+<strong style="color: orange;">Skills:</strong> Mechanical design, Prototyping, Mathematical Modeling (Continuum Mechanics in Soft Robotics), Image Processing (Python), Simulating (COMSOL Multiphisics). 
  </p>
 </div>
 ---

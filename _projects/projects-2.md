@@ -14,7 +14,7 @@ collection: projects
 <strong style="color: orange;">Software:</strong> Solidworks, MATLAB, and CURA;<br>
 <strong style="color: orange;">Hardware:</strong>
 QPIDe Data Acquisition Device (Quanser), Magnetic Tracking System (trakSTAR - TRACKLAB), Pressure Sensors 40PC250G2A (Honeywell), Linear Motors (Zaber X-LRQ-E Series), Load Cell – LSB200 (FUTEK), and Electrosurgical Unit (Led Surtron 120, Stark Medical);<br> 
-<strong style="color: orange;">Skills:</strong> Mechanical design, Protyping, Mathematical Modeling (Soft Actuators), and Image Processing. 
+<strong style="color: orange;">Skills:</strong> Mechanical design, Prototyping, Mathematical Modeling (Soft Actuators), and Image Processing. 
  </p>
 </div>
 ---
